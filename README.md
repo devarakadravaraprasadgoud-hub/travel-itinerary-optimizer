@@ -97,3 +97,6 @@ Both test suites verify:
 - Time-window pruning and deadline violation detection.
 - Trip duration budget ($T_{\max}$) enforcement.
 - REST API endpoint response schemas.
+
+# travel-itinerary-optimizer
+Algorithm-centric Travel Itinerary Optimizer using TSP with Time Windows and Maximum Trip Duration constraints.
